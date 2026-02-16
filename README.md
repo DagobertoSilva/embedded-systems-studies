@@ -43,15 +43,4 @@ Each project aims to be:
 
 ## 🗂 Repository Structure
 
-```bash
-embedded-systems-studies/
-│
-├── fundamentals/        # C programming and low-level concepts
-├── microcontrollers/    # Bare-metal and MCU projects
-├── sensors-actuators/   # Interfacing with hardware components
-├── communication/       # UART, I2C, SPI, etc.
-├── iot-projects/        # Connected embedded systems
-├── real-time/           # RTOS and timing-critical systems
-├── advanced-projects/   # Complex and research-oriented builds
-├── docs/                # Notes, diagrams, and study materials
-└── README.md
+
