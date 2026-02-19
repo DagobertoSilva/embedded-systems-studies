@@ -4,7 +4,7 @@
 typedef struct no{
     int valor;
     struct no *proximo;
-}No;
+}No; 
 
 //Inserir No início
 void inserir_no_inicio(No **lista, int num){
